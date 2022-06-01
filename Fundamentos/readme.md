@@ -1,0 +1,1 @@
+Exercícios desenvolvindos ao longo do curso de JavaScript !
