@@ -1,3 +1,5 @@
+// Exemplos de operadores relacionais
+
 console.log('01)', '1' == 1) // igual - Saída true
 console.log('02)', '1' === 1) // extritamente igual - Saída false
 console.log('03)', '3' != 3) // diferente apenas o valor - Saída false
